@@ -8,11 +8,11 @@
           <td>이름</td>
         </tr>
         <tr>
+          <td>송민규</td>
+          <td>송민규</td>
           <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>송민규</td>
+          <td>송민규</td>
         </tr>
       </tbody>
 </table>
