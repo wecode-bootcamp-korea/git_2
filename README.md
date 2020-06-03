@@ -8,7 +8,7 @@
           <td>이름</td>
         </tr>
         <tr>
-          <td>이름</td>
+          <td>jayden이 다시 작성함</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
