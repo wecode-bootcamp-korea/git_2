@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>정수영</td>
-          <td>정수영</td>
-          <td>정수영</td>
-          <td>정수영</td>
-          <td>정수영</td>
+          <td>leesangrok</td>
+          <td>Jason</td>
+          <td>Sooyoung</td>
+          <td>이름</td>
+          <td>이름</td>
         </tr>
         <tr>
-          <td>정수영</td>
-          <td>정수영</td>
-          <td>정수영</td>
-          <td>정수영</td>
-          <td>정수영</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
+          <td>이름</td>
         </tr>
       </tbody>
 </table>
