@@ -2,7 +2,7 @@
       <tbody>
         <tr>
           <td>leesangrok</td>
-          <td>이름</td>
+          <td>Jason</td>
           <td>이름</td>
           <td>이름</td>
           <td>이름</td>
