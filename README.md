@@ -3,7 +3,7 @@
         <tr>
           <td>leesangrok</td>
           <td>Jason</td>
-          <td>이름</td>
+          <td>Sooyoung</td>
           <td>이름</td>
           <td>이름</td>
         </tr>
