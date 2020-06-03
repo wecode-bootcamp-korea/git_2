@@ -8,11 +8,11 @@
 	  <td>Jason</td>
         </tr>
         <tr>
-          <td></td>
-          <td></td>
+          <td>송민규</td>
+          <td>송민규</td>
           <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>송민규</td>
+          <td>송민규</td>
         </tr>
       </tbody>
 </table>
