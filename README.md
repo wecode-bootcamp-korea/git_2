@@ -5,11 +5,11 @@
           <td>Jason</td>
           <td>Sooyoung</td>
           <td>이름</td>
-          <td>이름</td>
+          <td>이호균</td>
         </tr>
         <tr>
           <td>jayden이 다시 작성함</td>
-          <td>이름</td>
+          <td>이호름</td>
           <td>이름</td>
           <td>이름</td>
           <td>이호균</td>
