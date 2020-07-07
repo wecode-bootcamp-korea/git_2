@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>현정호</td>
-          <td>현정호</td>
-          <td>현정호</td>
-          <td>현정호</td>
-          <td>현정호</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
         </tr>
         <tr>
-          <td>현정호</td>
-          <td>현정호</td>
-          <td>현정호</td>
-          <td>현정호</td>
-	  <td>현정호</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
+          <td>박지훈</td>
         </tr>
       </tbody>
 </table>
